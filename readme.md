@@ -32,5 +32,4 @@ This project replicates the core mechanics of the game in a modular Java applica
 
 ---
 
-## 📁 Project Structure
 
